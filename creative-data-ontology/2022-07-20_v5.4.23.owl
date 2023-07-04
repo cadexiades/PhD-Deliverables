@@ -10,7 +10,7 @@
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:untitled-ontology-71="http://www.semanticweb.org/cadex/ontologies/2020/1/untitled-ontology-71#">
     <owl:Ontology rdf:about="http://www.semanticweb.org/cadex/ontologies/2020/1/untitled-ontology-71">
-        <ns:license>TBC</ns:license>
+        <ns:license>MIT</ns:license>
         <dc:title>The Creative Data Ontology</dc:title>
         <owl:versionInfo>5.4.23</owl:versionInfo>
     </owl:Ontology>
